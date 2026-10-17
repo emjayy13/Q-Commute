@@ -55,7 +55,7 @@ Modern urban road networks face persistent challenges of severe congestion, dyna
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/madhavbhardwaj77/Q-Commute.git
+   git clone https://github.com/emjayy13/Q-Commute.git
    cd Q-Commute
    ```
 
