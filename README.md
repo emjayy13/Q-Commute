@@ -50,7 +50,7 @@ Modern urban road networks face persistent challenges of severe congestion, dyna
 ---
 
 ### Dashboard Screenshots
-<img width="746" height="453" alt="image" src="https://github.com/user-attachments/assets/90b6d665-9f3f-4770-9d25-8d3df00b61de" />
+<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/a1312a91-2c8a-499b-8aef-be372fdb1ddc" />
 <img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/f2000403-abb3-45fb-b1a9-e146e02aa880" />
 <img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/5bcfeb16-d2c6-46dd-b6b9-3a627ad1b29e" />
 <img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/745e691e-8805-47ac-9dda-50df203c22ba" />
